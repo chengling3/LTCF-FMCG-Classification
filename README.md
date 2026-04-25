@@ -1,4 +1,9 @@
 # Label-Matching Text-Visual Collaborative Fusion (LTCF) for FMCG Fine-Grained Classification
+
+## Important Notice
+This code corresponds to the manuscript submitted to **The Visual Computer**.
+If you use this code, dataset, or any part of our work in your research, **please cite our paper**.
+
 This is the official PyTorch implementation of LTCF (Label-Matching Text-Visual Collaborative Fusion), a multimodal fusion model designed for high-accuracy fine-grained classification of fast-moving consumer goods (FMCG). The framework adaptively fuses visual features from product images and text matching scores derived from packaging text, enabling stronger discrimination between highly similar products.
 
 ## Project Structure
